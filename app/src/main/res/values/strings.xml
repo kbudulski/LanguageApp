@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Language App</string>
+    <string name="test">test</string>
+    <string name="nauka">nauka</string>
+    <string name="wybierz_tryb">Wybierz tryb</string>
+    <string name="przejd_dalej">Przejdź dalej</string>
+    <string name="angielski">angielski</string>
+    <string name="polski">polski</string>
+    <string name="wybierz_jezyk">Wybierz język do nauki</string>
+    <string name="o_aplikacji">O aplikacji</string>
+    <string name="slowo">Słowo</string>
+    <string name="zapisz_podejscie">Zapisz podejście</string>
+    <string name="nastepny">Następny</string>
+</resources>
